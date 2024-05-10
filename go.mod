@@ -4,6 +4,7 @@ go 1.21.6
 
 require (
 	github.com/joho/godotenv v1.5.1
+	github.com/k42-software/go-altcha v0.1.0
 	github.com/labstack/echo/v4 v4.12.0
 )
 
@@ -12,6 +13,7 @@ require (
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	golang.org/x/crypto v0.23.0 // indirect
